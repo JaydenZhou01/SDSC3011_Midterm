@@ -1,4 +1,4 @@
-# SDSC3011_Project1
+# SDSC3011_Project 1
 
 Files for SDSC3011 Midterm project, containing datasets and jupyter notebook for data visualization and regression analysis.
 
